@@ -1,0 +1,14 @@
+.slideshow   
+{
+    /*margin: 0 -50px 0 -50px;
+    text-align: center;*/
+    margin: 0 50%;
+    width: 200px;
+    height: 200px;
+}
+.slideshow img
+{
+	margin: 0 -100px;
+    max-width: 500px;    
+    max-height: 200px;
+}
