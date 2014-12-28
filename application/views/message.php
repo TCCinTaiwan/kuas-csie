@@ -22,4 +22,5 @@
 						</tbody>
 					</table>
 				</div>
+				<?if (isset($pagination)){echo $pagination;}?>
 			</section>
